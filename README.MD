@@ -1,5 +1,5 @@
 ### My GitHub Profile
 
-Currently trying to make an app with react native & expo to help people have a nice cutting guide for their flooring needs (yeah because I'm doing some in my own home)
+Currently Vibecoding all the ideas that were in my stash the last years thanks to opencode + OhMyOpencode (trading bot, prompt enhancer, baby translator, tile cutting guide, ticker analyst,...)
 
-I'll fill it up while advancing in my journey!
+Let's see where it goes!
